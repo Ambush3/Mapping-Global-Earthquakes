@@ -1,1 +1,1 @@
-# Mapping-Global-Earthquakes-and-Fires
+# Mapping-Global-Earthquakes
